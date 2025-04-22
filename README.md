@@ -8,9 +8,9 @@ src/main.cpp ：主程序运行文件
 
 src/postprocess.cpp: 模型推理后的后处理代码
 
-src/yolo11.cpp：模型初始化、推理、反初始化等函数代码
+src/yolov8-pose.cpp：模型初始化、推理、反初始化等函数代码
 
-include/postprocess.h、yolo11.h：各函数声明
+include/postprocess.h、yolov8-pose.h：各函数声明
 
 2.配置文件介绍
 
@@ -42,7 +42,7 @@ rknn_lib 是瑞芯微官方动态库librknnrt.so所在位置
 
 
 
-CSDN地址：[【YOLO11部署至RK3588】模型训练→转换RKNN→开发板部署_yolov11 rk3588-CSDN博客](https://blog.csdn.net/A_l_b_ert/article/details/143814080?spm=1001.2014.3001.5501)
+CSDN地址：https://blog.csdn.net/A_l_b_ert/article/details/147416946?spm=1001.2014.3001.5502
 
 
 

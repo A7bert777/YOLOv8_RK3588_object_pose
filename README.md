@@ -36,7 +36,7 @@ rknn_lib 是瑞芯微官方动态库librknnrt.so所在位置
 
 **③make**
 
-**④./rknn_yolo11_demo**
+**④./rknn_yolov8pose_demo**
 
 
 
